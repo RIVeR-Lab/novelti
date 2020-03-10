@@ -8,3 +8,9 @@ The data collection can be downloaded from this [link](https://repository.librar
 
 Each entry is named by the following pattern:  
 [subject name]-rob-[control method]-[interface]-[route]-1-[Date].zip
+
+In each entry, the following data are included:
+- NASA TLX assessment 
+- Screen recording during the experiment
+- Rosbag of all rostopics
+- Individual command mapping and confusion matrix
