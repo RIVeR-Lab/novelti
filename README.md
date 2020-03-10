@@ -1,4 +1,4 @@
-# novelti
+# NOVELTI Human Experiment Data
 
 The repository contains the experimental data we collected during NOVELTI human subject experiment.
 
